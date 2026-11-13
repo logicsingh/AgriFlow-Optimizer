@@ -1,0 +1,15 @@
+id,name,x,y,elevation_m,type,daily_need_m3
+RES,Reservoir,0,0,0,source,0
+P01,North Junction,1,2,2,junction,0
+P02,East Junction,4,1,4,junction,0
+P03,West Junction,-2,3,3,junction,0
+F01,Wheat Field,2,5,5,field,18
+F02,Rice Field,6,4,3,field,30
+F03,Cotton Field,-1,6,6,field,20
+F04,Vegetable Plot,4,7,8,field,16
+F05,Orchard,8,7,7,field,14
+P04,South Junction,1,-2,1,junction,0
+F06,Maize Field,3,-4,2,field,22
+F07,Pulse Field,-3,-2,4,field,12
+P05,Central Junction,5,-1,3,junction,0
+F08,Sugarcane Field,8,-3,5,field,26
