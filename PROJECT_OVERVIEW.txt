@@ -1,0 +1,1 @@
+AgriFlow Optimizer is an academic irrigation-network optimization demonstration using graph algorithms and 0/1 knapsack dynamic programming. All data is synthetic; it is not an engineering design.
